@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - projectile
+  - Arrow
+  - EnemyTarget/Skeleton1/1
+  - Skeleton
+  - Frog
+  - Frog2
+  - Bell
+  - Skeleton2
+  - Skeleton3
+  - PlayerArea
+  - EnemyAttackEffect
+  - LongBow
+  - EnemyCreater
+  - Enemy
+  - StartEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Arrow
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
