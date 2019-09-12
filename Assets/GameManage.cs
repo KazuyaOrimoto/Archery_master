@@ -12,7 +12,7 @@ public class GameManage : MonoBehaviour
     void Start()
     {
         Creater = GameObject.Find("EnemyCreater");
-        //Creater.active = false;
+        Creater.active = false;
     }
 
     // Update is called once per frame
